@@ -171,5 +171,5 @@ Write-Host "function AddGroupList (filepath)"
 Write-Host "function PrintUserList (filepath)"
 Write-Host "function ResetAndAdd()"
 
-Write-Host "`nExecute ResetAndAdd() to start reset existing groups/users and add them again"
+Write-Host "`nExecute ResetAndAdd to start reset existing groups/users and add them again"
 
